@@ -1,48 +1,38 @@
-<!-- Profil GitHub de Nacim 👋 -->
+# 👋 Hi, I'm Nacim
 
-<h1 align="center">Salut, moi c’est Nacim 👋</h1>
-<h3 align="center">💻 Développeur passionné par le C#, le web et la cybersécurité</h3>
-
----
-
-### 🚀 À propos de moi
-- 🔭 Je travaille actuellement sur un projet de **vente de billets de foot** avec carte de stade interactive.  
-- 🌱 J’apprends en ce moment **Python, asyncio et la programmation réseau**.  
-- 💬 N’hésite pas à me parler de **C#, ASP.NET, HTML/CSS, Python, ou sécurité réseau**.  
-- ⚡ Fun fact : Je fais du sport et je prépare une course de 20 km 🏃‍♂️  
+I'm a **computer science student** passionate about technology, problem-solving, and continuous learning.  
+I like experimenting with code, discovering new tools, and building small projects to improve my skills.
 
 ---
 
-### 🧰 Langages & Outils
+### 🎓 About Me
+- 🎯 Computer Science student passionate about learning and building projects.  
+- 💡 Interested in software development, network programming, and cybersecurity.  
+- 🌱 Always exploring new technologies and improving my coding skills.  
+- ⚡ Motivated, curious, and eager to gain practical experience.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,python,git,github,vscode,linux" />
+
+---
+
+### 🧰 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,python,html,css,js,git,github,vscode,linux" />
 </p>
 
 ---
 
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nacimtali&show_icons=true&theme=tokyonight" alt="stats GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nacimtali&theme=tokyonight" alt="streak GitHub" />
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nacimtali&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nacimtali&theme=default" height="150" />
 </p>
 
 ---
 
-### 🌍 Me contacter
-📧 **Email :** nacim@example.com  
-💼 [**LinkedIn**](https://www.linkedin.com/in/ton-lien)  
-🐦 [**Twitter / X**](https://x.com/tonpseudo)  
+### 📫 Contact
+- ✉️ **Email:** your-email@example.com  
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
 
-### 🧠 Citation du jour
-> “Le code parfait n’existe pas, mais la progression constante, si.”
-
----
-
-⭐️ N’hésite pas à visiter mes projets ou laisser une étoile sur ceux que tu trouves cool !
+> “The expert in anything was once a beginner.”
