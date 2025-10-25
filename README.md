@@ -30,9 +30,8 @@ I like experimenting with code, discovering new tools, and building small projec
 ---
 
 ### 📫 Contact
-- ✉️ **Email:** your-email@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
+- ✉️ **Email:** nacimtalimaamar@gmail.com 
+- 💬 **Discord:** nacim.tm
 ---
 
 > “The expert in anything was once a beginner.”
